@@ -1,0 +1,13 @@
+Fill the function getLongestEnglishComedy which has a movies parameter.
+It takes an array of movies described in the schema above, and returns the name of the longest. The function should return null if there are no relevant movies in the array.
+
+You have the data in the following schema:
+
+[
+{ title: "Titanic", genre: "drama", originalLanguage: "english", length: 180 },
+{ title: "Lord of the rings", genre: "fantasy", originalLanguage: "english", length: 170 },
+{ title: "Shaun of the dead", genre: "comedy", originalLanguage: "english", length: 120 },
+{ title: "Hot Fuzz", genre: "comedy", originalLanguage: "english", length: 150 },
+{ title: "Star Wars", genre: "scifi", originalLanguage: "english", length: 150 },
+{ title: "Johnny English", genre: "comedy", originalLanguage: "english", length: 110 },
+]
